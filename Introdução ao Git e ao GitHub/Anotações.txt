@@ -1,2 +1,9 @@
 Link para download do git https://git-scm.com/download/win
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+Git e GitHub são tecnologias diferentes mas que se complementam
+O que aprendemos no curso:
+- Controle de versão
+- Armazenamento em nuvem
+- Trabalhar em equipe
+- Melhorar seu código 
+- Reconhecimento
